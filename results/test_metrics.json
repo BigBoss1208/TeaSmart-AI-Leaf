@@ -1,0 +1,15 @@
+{
+  "samples": 530,
+  "accuracy": 0.8566037735849057,
+  "macro_precision": 0.8222582653009078,
+  "macro_recall": 0.8351049684758814,
+  "macro_f1": 0.8255327394533625,
+  "weighted_f1": 0.8565891034514787,
+  "macro_classes": 7,
+  "zero_division": 0,
+  "confusion_matrix_orientation": "rows=true_labels, columns=predicted_labels",
+  "limitations": [
+    "Independence by physical leaf, plant, garden, and capture session is not fully verified.",
+    "The clean dataset retains 165 lower-similarity cross-split candidate pairs (46 touching Test) with insufficient evidence to call them the same leaf."
+  ]
+}

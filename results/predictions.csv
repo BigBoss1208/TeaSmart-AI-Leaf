@@ -1,0 +1,531 @@
+﻿relative_path,true_index,true_label,predicted_index,predicted_label,predicted_probability,correct
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00001_jpg.rf.eef5b22edb2fa795d8cbbe8b2081ff0f.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.9826807379722595,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00014_jpg.rf.d54906469c4f048ff30dfdeed22222d3.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.9797782897949219,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00017_jpg.rf.4cbc5ef4322236a40dd96584a6e66f65.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.9529336094856262,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00018_jpg.rf.a930715a5d2fc1cc95a5b988d99274ea.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.99892657995224,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00021_jpg.rf.8a1214c0346d82e003b3ff530e537f72.jpg,0,1. Tea algal leaf spot,4,5. Red spider,0.7076738476753235,False
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00025_jpg.rf.e21bc48d948f6746bd7f025523f62a15.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.9804205894470215,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00029_jpg.rf.35fccc0e38aa60254c4b5fb45a380bf3.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.853844940662384,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00046_jpg.rf.f8f5e40db1dfd64324bff328503fab38.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.6581288576126099,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00076_jpg.rf.009ced52a650a029dcaf3bec574bdbaa.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.8978262543678284,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00108_jpg.rf.55293749e60a0daa06b6c0153b6a052b.jpg,0,1. Tea algal leaf spot,4,5. Red spider,0.9082863926887512,False
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00110_jpg.rf.44dec6ff64a3f7376d13def446e384d4.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.9176485538482666,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00117_jpg.rf.b99c9d35ae8be682935206d231c8aec7.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.999396562576294,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00132_jpg.rf.68faaacce38f5711b3bb420de57f6386.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.6724312901496887,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00195_jpg.rf.2328aafe7bf55e63ba3852d8f8e0ecb7.jpg,0,1. Tea algal leaf spot,1,2. Brown Blight,0.6709660291671753,False
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00209_jpg.rf.5ad459fa58b7decc9f7dfa75635e3f16.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.8732481002807617,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00219_jpg.rf.f41c10c7782c4aee931d06dea701b50a.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.9882729649543762,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00229_jpg.rf.21e5561d4f28334f9ae3ae082eccd40a.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.9968447685241699,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00236_jpg.rf.959eae067d24de7035e3cf47865cceb6.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.9851729869842529,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00240_jpg.rf.291969f25453bccd82cbec97db818236.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.6898355484008789,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00283_jpg.rf.cf9e5ccb963452202c4c25653399f69d.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.5332342982292175,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00294_jpg.rf.729105a224a66b18b7fc8562d7213b2c.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.5646258592605591,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00312_jpg.rf.25896b866df7763b0a2420d46f17322b.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.7951131463050842,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00331_jpg.rf.390595afdc2025d28c618c75dcbf7e10.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.9990087747573853,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00338_jpg.rf.1a976477b25ff761067d94859808a5f7.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.6847085356712341,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00351_jpg.rf.3b0aa325764dafea425a1bb6a0c207d4.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.894383430480957,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00352_jpg.rf.e1c3c8d7073574e318b8cec0d0ab20ae.jpg,0,1. Tea algal leaf spot,1,2. Brown Blight,0.5834097862243652,False
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00363_jpg.rf.a73455de9db66676e9c9e386c0656ab0.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.4760975241661072,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00368_jpg.rf.c61a1d35ba8b8258b48b2be78215341a.jpg,0,1. Tea algal leaf spot,2,3. Gray Blight,0.447477251291275,False
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00391_jpg.rf.b49ff5bf23b39af81f499da50429aa85.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.962919294834137,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00396_jpg.rf.e306a04522589ee4c087d3bdf4321b5b.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.9793847799301147,True
+test/1. Tea algal leaf spot/tea_algal_leaf_spot_00406_jpg.rf.da79b42dc2c9d21a14cfbf75c589b549.jpg,0,1. Tea algal leaf spot,0,1. Tea algal leaf spot,0.9953966736793518,True
+test/2. Brown Blight/brown_blight_00011_jpg.rf.f8ce198e96e24921fef190f5297a3cb4.jpg,1,2. Brown Blight,4,5. Red spider,0.9974510073661804,False
+test/2. Brown Blight/brown_blight_00019_jpg.rf.fd01c29c10f295f8c33e6d9d087d762c.jpg,1,2. Brown Blight,1,2. Brown Blight,0.8128232359886169,True
+test/2. Brown Blight/brown_blight_00028_jpg.rf.b42c358b2587ad71f80366aeb82f413b.jpg,1,2. Brown Blight,0,1. Tea algal leaf spot,0.8286194801330566,False
+test/2. Brown Blight/brown_blight_00038_jpg.rf.c64ed270541a6cfad56b30bb98a26635.jpg,1,2. Brown Blight,4,5. Red spider,0.5267133116722107,False
+test/2. Brown Blight/brown_blight_00039_jpg.rf.190f442dda44a814aad11af2fa89cb86.jpg,1,2. Brown Blight,0,1. Tea algal leaf spot,0.9479702711105347,False
+test/2. Brown Blight/brown_blight_00045_jpg.rf.39dfb6637e8d988092c8e466f529c853.jpg,1,2. Brown Blight,2,3. Gray Blight,0.5819600820541382,False
+test/2. Brown Blight/brown_blight_00048_jpg.rf.a866ba28f55e0fe02a9660d9a5d232f5.jpg,1,2. Brown Blight,2,3. Gray Blight,0.9174338579177856,False
+test/2. Brown Blight/brown_blight_00058_jpg.rf.1b845ef26212955233a67a87e94155fc.jpg,1,2. Brown Blight,0,1. Tea algal leaf spot,0.5181452631950378,False
+test/2. Brown Blight/brown_blight_00064_jpg.rf.34c09246152ec0d30ad7fbfbb7a431c3.jpg,1,2. Brown Blight,0,1. Tea algal leaf spot,0.989497184753418,False
+test/2. Brown Blight/brown_blight_00069_jpg.rf.55e915d1d72e6d12bd02295a2c69050f.jpg,1,2. Brown Blight,1,2. Brown Blight,0.7370489835739136,True
+test/2. Brown Blight/brown_blight_00081_jpg.rf.74c8a6c39a33707c8dd322ef5ea3a06c.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9144660234451294,True
+test/2. Brown Blight/brown_blight_00092_jpg.rf.82fcc7842dcaf4df496909faadd89069.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9895864129066467,True
+test/2. Brown Blight/brown_blight_00097_jpg.rf.b289a33e34eaa99552aebe67f0e2d4e2.jpg,1,2. Brown Blight,1,2. Brown Blight,0.8927438855171204,True
+test/2. Brown Blight/brown_blight_00104_jpg.rf.73881727d31b164884c3a7be9d484cb3.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9998859167098999,True
+test/2. Brown Blight/brown_blight_00113_jpg.rf.dadd9d44afd371e8b6d360b01379418d.jpg,1,2. Brown Blight,0,1. Tea algal leaf spot,0.6008735299110413,False
+test/2. Brown Blight/brown_blight_00123_jpg.rf.2c02687662ac39a668340441efbb1253.jpg,1,2. Brown Blight,1,2. Brown Blight,0.7768291234970093,True
+test/2. Brown Blight/brown_blight_00133_jpg.rf.388f59a15db29061f6d28c9521e74375.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9238746166229248,True
+test/2. Brown Blight/brown_blight_00137_jpg.rf.db0ec15c45520ea53eef60cd155505de.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9996635913848877,True
+test/2. Brown Blight/brown_blight_00157_jpg.rf.39b35113798d94f4e6d4b762a78a84a8.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9999465942382812,True
+test/2. Brown Blight/brown_blight_00171_jpg.rf.c0e7e180b9afe5921cf5df83fffca2fb.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9987726807594299,True
+test/2. Brown Blight/brown_blight_00182_jpg.rf.961dbc4fd7acb5d150f0e7aee583121d.jpg,1,2. Brown Blight,1,2. Brown Blight,0.7428711652755737,True
+test/2. Brown Blight/brown_blight_00188_jpg.rf.de7dc3ecea7b207e1d601c9ebb237a0a.jpg,1,2. Brown Blight,1,2. Brown Blight,0.5956844091415405,True
+test/2. Brown Blight/brown_blight_00191_jpg.rf.0a40e2ad67076f09c9595ac89c34b5d5.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9993481040000916,True
+test/2. Brown Blight/brown_blight_00204_jpg.rf.624bb55e174cbc37235798df1c659478.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9952220320701599,True
+test/2. Brown Blight/brown_blight_00209_jpg.rf.93c672d29302efddc5800782a8100539.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9593040943145752,True
+test/2. Brown Blight/brown_blight_00221_jpg.rf.ca9b235e985253e505ab2fe1e57f67af.jpg,1,2. Brown Blight,0,1. Tea algal leaf spot,0.5292971134185791,False
+test/2. Brown Blight/brown_blight_00223_jpg.rf.92b710d8b6eb0b9342a422e2969a8c23.jpg,1,2. Brown Blight,2,3. Gray Blight,0.9037262797355652,False
+test/2. Brown Blight/brown_blight_00226_jpg.rf.02e0f864c83dcf3bc38602a512068306.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9897614121437073,True
+test/2. Brown Blight/brown_blight_00234_jpg.rf.90d1e2ea1fb11196f3426cd762efced8.jpg,1,2. Brown Blight,0,1. Tea algal leaf spot,0.7458169460296631,False
+test/2. Brown Blight/brown_blight_00239_jpg.rf.6c0e2ee9054613422988ffea2941fd8b.jpg,1,2. Brown Blight,1,2. Brown Blight,0.8964534401893616,True
+test/2. Brown Blight/brown_blight_00259_jpg.rf.05717e69d71ec1ece3fba935455f4245.jpg,1,2. Brown Blight,1,2. Brown Blight,0.5952463746070862,True
+test/2. Brown Blight/brown_blight_00270_jpg.rf.32d6444dd543be9273fcd426a055865b.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9912154674530029,True
+test/2. Brown Blight/brown_blight_00296_jpg.rf.ca766bd67702ebe17ecea2cf674dbb5a.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9287312626838684,True
+test/2. Brown Blight/brown_blight_00325_jpg.rf.6af6a5b49d3839067ac88f1acbdcb407.jpg,1,2. Brown Blight,0,1. Tea algal leaf spot,0.9142670631408691,False
+test/2. Brown Blight/brown_blight_00330_jpg.rf.de5a5e1f8100bdde6e7db68dd5fd0f5a.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9251670241355896,True
+test/2. Brown Blight/brown_blight_00332_jpg.rf.b2be40bea905b27583bd987e45e7191c.jpg,1,2. Brown Blight,1,2. Brown Blight,0.980573832988739,True
+test/2. Brown Blight/brown_blight_00356_jpg.rf.c007c5a871b1776407c8bb5b967a28bf.jpg,1,2. Brown Blight,0,1. Tea algal leaf spot,0.3987308740615845,False
+test/2. Brown Blight/brown_blight_00372_jpg.rf.42ca5d739c337183514412be560595a0.jpg,1,2. Brown Blight,0,1. Tea algal leaf spot,0.7496729493141174,False
+test/2. Brown Blight/brown_blight_00379_jpg.rf.c8ef1408def1d557a7ddf212a7c03b0c.jpg,1,2. Brown Blight,1,2. Brown Blight,0.8200506567955017,True
+test/2. Brown Blight/brown_blight_00380_jpg.rf.d08dedbf4777a7cffb120b3ed0b719ec.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9965156316757202,True
+test/2. Brown Blight/brown_blight_00387_jpg.rf.7ff11486138dbe9d39fb7c9c98ab8b4a.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9738765358924866,True
+test/2. Brown Blight/brown_blight_00403_jpg.rf.f236e3a28bf884489ddfdef50cb2cda0.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9964564442634583,True
+test/2. Brown Blight/brown_blight_00413_jpg.rf.5c8263e28fae3c4983e827c3389e4376.jpg,1,2. Brown Blight,1,2. Brown Blight,0.49074438214302063,True
+test/2. Brown Blight/brown_blight_00431_jpg.rf.d1281cf378d00bfc71ffe96682ef0f99.jpg,1,2. Brown Blight,2,3. Gray Blight,0.8981850147247314,False
+test/2. Brown Blight/brown_blight_00432_jpg.rf.6fc4415f6e05cfa54d174f52372d6fdc.jpg,1,2. Brown Blight,0,1. Tea algal leaf spot,0.9456691145896912,False
+test/2. Brown Blight/brown_blight_00461_jpg.rf.a662856f5b2a89abfedb114eb178e994.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9021607041358948,True
+test/2. Brown Blight/brown_blight_00463_jpg.rf.64d2968f701f48fae0e8ff9f4b58cb82.jpg,1,2. Brown Blight,1,2. Brown Blight,0.9847549200057983,True
+test/2. Brown Blight/brown_blight_00464_jpg.rf.92659086069d5230645b0070dc1d8858.jpg,1,2. Brown Blight,1,2. Brown Blight,0.6859808564186096,True
+test/2. Brown Blight/brown_blight_00473_jpg.rf.2510b45d155fd48530690058d11b65de.jpg,1,2. Brown Blight,1,2. Brown Blight,0.991772472858429,True
+test/2. Brown Blight/brown_blight_00489_jpg.rf.ff178327603684fcd57cf52ec86110ac.jpg,1,2. Brown Blight,1,2. Brown Blight,0.48625198006629944,True
+test/2. Brown Blight/brown_blight_00504_jpg.rf.5aeda48aac9647fe2f83094a46d4e899.jpg,1,2. Brown Blight,1,2. Brown Blight,0.6538357734680176,True
+test/3. Gray Blight/gray_blight_00021_jpg.rf.34dbe430307380b688798552569645bf.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9997038245201111,True
+test/3. Gray Blight/gray_blight_00028_jpg.rf.d4b1d1debd4808245c433af8fdd30952.jpg,2,3. Gray Blight,2,3. Gray Blight,0.999171257019043,True
+test/3. Gray Blight/gray_blight_00049_jpg.rf.76a7cdddfdbdd5ba3714f5b3f6fa6ccf.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9979938268661499,True
+test/3. Gray Blight/gray_blight_00051_jpg.rf.6e0ee6b618ee82aeff7eb14e680cbb76.jpg,2,3. Gray Blight,2,3. Gray Blight,0.986277163028717,True
+test/3. Gray Blight/gray_blight_00055_jpg.rf.73847f801f7b164cd018a0e37547bbac.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9879065752029419,True
+test/3. Gray Blight/gray_blight_00065_jpg.rf.39368afd492ba077bb80dc026540cd36.jpg,2,3. Gray Blight,2,3. Gray Blight,0.992207944393158,True
+test/3. Gray Blight/gray_blight_00068_jpg.rf.f9faaa1cc529bc76c5b185b544f8c257.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9976322650909424,True
+test/3. Gray Blight/gray_blight_00083_jpg.rf.13cd67e078bac8b49f2ac4f779a72c82.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9999926090240479,True
+test/3. Gray Blight/gray_blight_00104_jpg.rf.69249a7ac7fee5dc551b71cb950c4783.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9997738003730774,True
+test/3. Gray Blight/gray_blight_00106_jpg.rf.fe458a5890c4516ef0ee99aceb894e65.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9996114373207092,True
+test/3. Gray Blight/gray_blight_00114_jpg.rf.61bf8d1d2aea931b66135f7d2cf72789.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9986487030982971,True
+test/3. Gray Blight/gray_blight_00136_jpg.rf.18127835dfcab41e35bec5230e45587d.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9998823404312134,True
+test/3. Gray Blight/gray_blight_00150_jpg.rf.e2d0577127e89c97d032a556f515e08e.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9707599878311157,True
+test/3. Gray Blight/gray_blight_00155_jpg.rf.96dcd5b1af74e681016305e81fc44ef2.jpg,2,3. Gray Blight,4,5. Red spider,0.9990341663360596,False
+test/3. Gray Blight/gray_blight_00162_jpg.rf.636a741ea9dd022efb0ff9c5165c885c.jpg,2,3. Gray Blight,2,3. Gray Blight,0.779290497303009,True
+test/3. Gray Blight/gray_blight_00165_jpg.rf.f30efbb0d89f64e98aef0e7d95b1df5e.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9661365151405334,True
+test/3. Gray Blight/gray_blight_00169_jpg.rf.dc404b05c12a0f849540c969e65cdfc4.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9828490614891052,True
+test/3. Gray Blight/gray_blight_00171_jpg.rf.c31d625055f5115f1d72faf6b1e6c0bf.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9996778964996338,True
+test/3. Gray Blight/gray_blight_00176_jpg.rf.13d5e7c989ba7daa063bb139bdc5e418.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9999973773956299,True
+test/3. Gray Blight/gray_blight_00188_jpg.rf.6f0f46cac6b0be0af862970d02535d74.jpg,2,3. Gray Blight,0,1. Tea algal leaf spot,0.5576724410057068,False
+test/3. Gray Blight/gray_blight_00192_jpg.rf.bca74bfb5bf0ecc7dbb12b1f82069c8b.jpg,2,3. Gray Blight,0,1. Tea algal leaf spot,0.9004698395729065,False
+test/3. Gray Blight/gray_blight_00220_jpg.rf.c95f327eb5272a19b54378420d77345a.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9993708729743958,True
+test/3. Gray Blight/gray_blight_00224_jpg.rf.7ad8a7d97a3ae045ad5e4d79368089a2.jpg,2,3. Gray Blight,2,3. Gray Blight,0.999929666519165,True
+test/3. Gray Blight/gray_blight_00227_jpg.rf.1d389ea91cb7ddd909dcd5c7964138e7.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9963800311088562,True
+test/3. Gray Blight/gray_blight_00228_jpg.rf.b01c25749a46dcfb9238ddad1c11f411.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9052886366844177,True
+test/3. Gray Blight/gray_blight_00229_jpg.rf.7c16c8fe4fc3d19f87cef429d5290479.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9842573404312134,True
+test/3. Gray Blight/gray_blight_00231_jpg.rf.37af8b5bac3bc2d56622be0bb5f85daa.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9999347925186157,True
+test/3. Gray Blight/gray_blight_00236_jpg.rf.4b6b8ed8f125b6efa681446bb807068d.jpg,2,3. Gray Blight,2,3. Gray Blight,0.999988317489624,True
+test/3. Gray Blight/gray_blight_00240_jpg.rf.4ad78f85d5f35b1fe00e86eadd6e4c3e.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9979165196418762,True
+test/3. Gray Blight/gray_blight_00266_jpg.rf.b8aecc9e019c4e69936b46eabf27f9a7.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9996942281723022,True
+test/3. Gray Blight/gray_blight_00270_jpg.rf.07ecd56e90898c442d0f93a647b68f9a.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9999637603759766,True
+test/3. Gray Blight/gray_blight_00281_jpg.rf.9736f4b3a2ce7f37578544ab21d98489.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9999486207962036,True
+test/3. Gray Blight/gray_blight_00309_jpg.rf.226c49524f0085556d9b2888e5656f66.jpg,2,3. Gray Blight,2,3. Gray Blight,0.5811241865158081,True
+test/3. Gray Blight/gray_blight_00311_jpg.rf.553fb0d082ed4353e137544e6e197499.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9666398763656616,True
+test/3. Gray Blight/gray_blight_00315_jpg.rf.148dfdbd34d3f843a8a201bfe8584db3.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9977807402610779,True
+test/3. Gray Blight/gray_blight_00332_jpg.rf.5dea939e94be99f07a2192b83cad463f.jpg,2,3. Gray Blight,2,3. Gray Blight,0.4516904354095459,True
+test/3. Gray Blight/gray_blight_00345_jpg.rf.6df50215058ae2a255ff7cd156818d8f.jpg,2,3. Gray Blight,2,3. Gray Blight,0.866810142993927,True
+test/3. Gray Blight/gray_blight_00346_jpg.rf.a8dab1b48e8f86d47cf95cb2845c8fff.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9884828925132751,True
+test/3. Gray Blight/gray_blight_00348_jpg.rf.c0f1ec53b6fa612d621d64e7dc67ae39.jpg,2,3. Gray Blight,2,3. Gray Blight,0.999605119228363,True
+test/3. Gray Blight/gray_blight_00350_jpg.rf.c0bd9e13b3265239a97947caec601cfe.jpg,2,3. Gray Blight,2,3. Gray Blight,0.8785413503646851,True
+test/3. Gray Blight/gray_blight_00355_jpg.rf.91974945a02bbb1b964cc70c4ce3b771.jpg,2,3. Gray Blight,0,1. Tea algal leaf spot,0.5087270736694336,False
+test/3. Gray Blight/gray_blight_00359_jpg.rf.4df587bda1e59f9146324484e13ba3b8.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9985672235488892,True
+test/3. Gray Blight/gray_blight_00370_jpg.rf.f7f13269baaa54782a00e842d04dd7ed.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9997087121009827,True
+test/3. Gray Blight/gray_blight_00384_jpg.rf.4ae90cc07ed6fc24744c572b7072697c.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9963977336883545,True
+test/3. Gray Blight/gray_blight_00386_jpg.rf.273c4c9afc96988ba8a7bc198c1ccbf4.jpg,2,3. Gray Blight,2,3. Gray Blight,0.6149628758430481,True
+test/3. Gray Blight/gray_blight_00395_jpg.rf.7972c8ba58f4dfebf085bf22da3c268c.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9416131973266602,True
+test/3. Gray Blight/gray_blight_00397_jpg.rf.27e967d1db1fb85f4e1f41dcfb6f2821.jpg,2,3. Gray Blight,2,3. Gray Blight,0.6026397943496704,True
+test/3. Gray Blight/gray_blight_00411_jpg.rf.d009e26cc8674f1deb10b6c4906a2b25.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9991751313209534,True
+test/3. Gray Blight/gray_blight_00414_jpg.rf.a70cd019fa56a62de73c7cde19860f4a.jpg,2,3. Gray Blight,2,3. Gray Blight,0.7440249919891357,True
+test/3. Gray Blight/gray_blight_00425_jpg.rf.dc2d027bf0725b7da467d79b3a9b9cc4.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9918014407157898,True
+test/3. Gray Blight/gray_blight_00429_jpg.rf.bc7d9e6fe28b893f1ebc7d359ca551d3.jpg,2,3. Gray Blight,1,2. Brown Blight,0.8311118483543396,False
+test/3. Gray Blight/gray_blight_00454_jpg.rf.4f478e803437da4811180a5c4e73eebe.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9769982099533081,True
+test/3. Gray Blight/gray_blight_00465_jpg.rf.e94042b70af4e60da49c6ff8a92375f4.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9458640217781067,True
+test/3. Gray Blight/gray_blight_00470_jpg.rf.36479407a3531068859be84aa7359404.jpg,2,3. Gray Blight,2,3. Gray Blight,0.5935048460960388,True
+test/3. Gray Blight/gray_blight_00477_jpg.rf.fe751b99a0bbcbd6693a7c43f088f3fa.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9916390776634216,True
+test/3. Gray Blight/gray_blight_00481_jpg.rf.ce5cf0aef655355efc75d3674d218768.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9993587136268616,True
+test/3. Gray Blight/gray_blight_00499_jpg.rf.d2477fabeb49aff585aed3d9c5002a47.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9997424483299255,True
+test/3. Gray Blight/gray_blight_00508_jpg.rf.1ad21635fdb4254f0cedfdda5ddb6ccd.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9840527772903442,True
+test/3. Gray Blight/gray_blight_00512_jpg.rf.15bcf3ff679a749b303578b6b308b20d.jpg,2,3. Gray Blight,2,3. Gray Blight,0.8055405616760254,True
+test/3. Gray Blight/gray_blight_00513_jpg.rf.ebdef2938adbca5c7c3a7ba3731618ce.jpg,2,3. Gray Blight,4,5. Red spider,0.8958311676979065,False
+test/3. Gray Blight/gray_blight_00520_jpg.rf.91422e81d5bf7b849be2bca7fd966f7a.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9993925094604492,True
+test/3. Gray Blight/gray_blight_00525_jpg.rf.8e55194c56bb132c23c2424c276f713a.jpg,2,3. Gray Blight,2,3. Gray Blight,0.907240629196167,True
+test/3. Gray Blight/gray_blight_00560_jpg.rf.74fd5280564adaad263600a7de722ca5.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9979096055030823,True
+test/3. Gray Blight/gray_blight_00573_jpg.rf.e2dc29c7b02ec6ddda2c8605bdab7220.jpg,2,3. Gray Blight,1,2. Brown Blight,0.9660212993621826,False
+test/3. Gray Blight/gray_blight_00575_jpg.rf.628d7f8d64b64212903b45e239b2090c.jpg,2,3. Gray Blight,4,5. Red spider,0.928705632686615,False
+test/3. Gray Blight/gray_blight_00578_jpg.rf.cfbad80b5ff6b5effbdb15d80cbc1bcf.jpg,2,3. Gray Blight,2,3. Gray Blight,0.987611711025238,True
+test/3. Gray Blight/gray_blight_00589_jpg.rf.25763e132a68d99332c0b2311a0b250a.jpg,2,3. Gray Blight,2,3. Gray Blight,0.8955129384994507,True
+test/3. Gray Blight/gray_blight_00598_jpg.rf.65b4bfee372cb157eb1a3eeac002f5a8.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9374749064445496,True
+test/3. Gray Blight/gray_blight_00621_jpg.rf.fd3a66a99343accf4cd7bef1ce36ead3.jpg,2,3. Gray Blight,2,3. Gray Blight,0.5009154677391052,True
+test/3. Gray Blight/gray_blight_00631_jpg.rf.4581d521e54abbefe9e6e5b85022b6d1.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9999470710754395,True
+test/3. Gray Blight/gray_blight_00648_jpg.rf.46db970cf89ebc973bcf09bb6e01781d.jpg,2,3. Gray Blight,2,3. Gray Blight,0.8128229379653931,True
+test/3. Gray Blight/gray_blight_00659_jpg.rf.9004a8d56a753d17557e5237bb2ab028.jpg,2,3. Gray Blight,5,6. Green mirid bug,0.5374977588653564,False
+test/3. Gray Blight/gray_blight_00666_jpg.rf.bed75d06021d1d4b737116c0493eefd1.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9997468590736389,True
+test/3. Gray Blight/gray_blight_00668_jpg.rf.90e36ad2c847d518c041c4cdfaa07f0a.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9920969009399414,True
+test/3. Gray Blight/gray_blight_00673_jpg.rf.2f3f4f98ef10eaee9b0a6a0931a0ea6d.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9491978287696838,True
+test/3. Gray Blight/gray_blight_00677_jpg.rf.3b9459e1230432c90f2d405f9bccc42b.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9568526148796082,True
+test/3. Gray Blight/gray_blight_00704_jpg.rf.e368d99128a8854d7e54e41fc57f2eda.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9994876384735107,True
+test/3. Gray Blight/gray_blight_00710_jpg.rf.4a15471313c792535aa333ac51ac59af.jpg,2,3. Gray Blight,1,2. Brown Blight,0.8675994277000427,False
+test/3. Gray Blight/gray_blight_00712_jpg.rf.6703c2b67a21412e889e9e9791a34015.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9987334609031677,True
+test/3. Gray Blight/gray_blight_00736_jpg.rf.e3c233e1e95bba7d6d13cad9643f7a0c.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9994083642959595,True
+test/3. Gray Blight/gray_blight_00743_jpg.rf.5fe882c85b5abfeaca2e3e4f3ab88875.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9999336004257202,True
+test/3. Gray Blight/gray_blight_00744_jpg.rf.49eb19828a9395480246129d1cd5d6bf.jpg,2,3. Gray Blight,2,3. Gray Blight,0.994471549987793,True
+test/3. Gray Blight/gray_blight_00756_jpg.rf.6906362b7adbf052de14ef54a322812b.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9795788526535034,True
+test/3. Gray Blight/gray_blight_00783_jpg.rf.36fc5beade49e5dce7dcd6e5092bcdb0.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9307155609130859,True
+test/3. Gray Blight/gray_blight_00789_jpg.rf.da76f429f1d4f660eab11ebd6387c7b5.jpg,2,3. Gray Blight,2,3. Gray Blight,0.992771327495575,True
+test/3. Gray Blight/gray_blight_00816_jpg.rf.f2cfd38d34fd2f8c656083f3b01113af.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9985999464988708,True
+test/3. Gray Blight/gray_blight_00836_jpg.rf.b5456ec171bbe96207eaf1513355af45.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9997252821922302,True
+test/3. Gray Blight/gray_blight_00837_jpg.rf.ab212f789e87ba1012e37412612c95ce.jpg,2,3. Gray Blight,2,3. Gray Blight,0.993328332901001,True
+test/3. Gray Blight/gray_blight_00848_jpg.rf.4c9a4f205fc68acbcd24d2627dd183cb.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9835792183876038,True
+test/3. Gray Blight/gray_blight_00884_jpg.rf.558c4109c2d523d9d07c3504ad87dfcb.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9999593496322632,True
+test/3. Gray Blight/gray_blight_00894_jpg.rf.8d662cec22122e2cc17f99fa4786ac94.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9976933598518372,True
+test/3. Gray Blight/gray_blight_00900_jpg.rf.65fb75e92700f0b548e7e877c50adf06.jpg,2,3. Gray Blight,2,3. Gray Blight,0.8124514818191528,True
+test/3. Gray Blight/gray_blight_00909_jpg.rf.62c0af1a02af3faf0e6a7e4f7a474052.jpg,2,3. Gray Blight,4,5. Red spider,0.5614322423934937,False
+test/3. Gray Blight/gray_blight_00910_jpg.rf.f5b0311205121cf7004673959ff49f3e.jpg,2,3. Gray Blight,4,5. Red spider,0.9786059260368347,False
+test/3. Gray Blight/gray_blight_00919_jpg.rf.8a0412f8ec21434368a8d79596ed7cd2.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9998428821563721,True
+test/3. Gray Blight/gray_blight_00923_jpg.rf.81c711935d245ee560ae61f816f78a94.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9407141804695129,True
+test/3. Gray Blight/gray_blight_00930_jpg.rf.a9709cd53a09e54c7ff917386a8db690.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9950946569442749,True
+test/3. Gray Blight/gray_blight_00948_jpg.rf.4ce4a141c3a0a8c1079e2c544440cae7.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9997465014457703,True
+test/3. Gray Blight/gray_blight_00949_jpg.rf.cd9ae703a132b303cfce945126bf6781.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9896103143692017,True
+test/3. Gray Blight/gray_blight_00951_jpg.rf.bdda23d887ba9502fbb9a6e65dba9a5f.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9999767541885376,True
+test/3. Gray Blight/gray_blight_00985_jpg.rf.f3d054c6687facb908a1b15603636d72.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9929236173629761,True
+test/3. Gray Blight/gray_blight_01007_jpg.rf.82cd0bfcccfc14d2415053ca8b04e2fb.jpg,2,3. Gray Blight,2,3. Gray Blight,0.9980296492576599,True
+test/3. Gray Blight/gray_blight_01009_jpg.rf.a21feb2a612b5cffd17fed7f835fb33d.jpg,2,3. Gray Blight,5,6. Green mirid bug,0.8376992344856262,False
+test/4. Helopeltis/helopeltis_00004_jpg.rf.bd51fcc0689e51bf100c7e101f3c425b.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9937813878059387,True
+test/4. Helopeltis/helopeltis_00009_jpg.rf.21dda0779098ea177a43873d31870079.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9958820343017578,True
+test/4. Helopeltis/helopeltis_00010_jpg.rf.6b666b63a5efc4d9c1d376c445675bd0.jpg,3,4. Helopeltis,3,4. Helopeltis,0.999222993850708,True
+test/4. Helopeltis/helopeltis_00012_jpg.rf.b566d161a695e95b0180c2db2ffaf19a.jpg,3,4. Helopeltis,6,7. Healthy leaf,0.9684790372848511,False
+test/4. Helopeltis/helopeltis_00016_jpg.rf.5b40e8474a81ca5f5cdfe84957b9dcbb.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9446840286254883,True
+test/4. Helopeltis/helopeltis_00031_jpg.rf.a00dd7818177fa606fa941eb7f9154ba.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9951506853103638,True
+test/4. Helopeltis/helopeltis_00035_jpg.rf.8a549a47f3e326cbc8d2cd5927ddc655.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9984127283096313,True
+test/4. Helopeltis/helopeltis_00036_jpg.rf.766a09621e22ff955eae1819ba98b75a.jpg,3,4. Helopeltis,3,4. Helopeltis,0.8003623485565186,True
+test/4. Helopeltis/helopeltis_00038_jpg.rf.0c57de92c6400ba6344f92ddfa7c7c06.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9993508458137512,True
+test/4. Helopeltis/helopeltis_00046_jpg.rf.8772f77e1f22999f9e72e8cef4a980e7.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9928066730499268,True
+test/4. Helopeltis/helopeltis_00051_jpg.rf.925fc36905250ff24c7b37d31a7ba9dc.jpg,3,4. Helopeltis,6,7. Healthy leaf,0.955846905708313,False
+test/4. Helopeltis/helopeltis_00053_jpg.rf.7cdd975604e704fe6f75cc9773e5cea9.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9767997860908508,True
+test/4. Helopeltis/helopeltis_00075_jpg.rf.5add8bacf559deb87a564cc7cdc12602.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9705889225006104,True
+test/4. Helopeltis/helopeltis_00077_jpg.rf.52642e36bb8ba08c962eda6cef5cb0c3.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9504916667938232,True
+test/4. Helopeltis/helopeltis_00094_jpg.rf.5d35e70a288032a775ea834778519c83.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9938898086547852,True
+test/4. Helopeltis/helopeltis_00137_jpg.rf.1444eee2cb05910773bc14e2b535ecf3.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9977341890335083,True
+test/4. Helopeltis/helopeltis_00163_jpg.rf.45f2404f2501c168467a0a09ba2bbe4d.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9122212529182434,True
+test/4. Helopeltis/helopeltis_00178_jpg.rf.e8ceb4f4667d30fb9abaef11b6447a78.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9879701137542725,True
+test/4. Helopeltis/helopeltis_00182_jpg.rf.080ad6feb811dd29f5806d78431991a9.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9724429845809937,True
+test/4. Helopeltis/helopeltis_00185_jpg.rf.303cef47cfd4f9f6977b4534e120029f.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9999097585678101,True
+test/4. Helopeltis/helopeltis_00186_jpg.rf.df600bdf1c86a1d6eb23eb0073edfb14.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9903830885887146,True
+test/4. Helopeltis/helopeltis_00190_jpg.rf.f872a572db268aad530244004c690c59.jpg,3,4. Helopeltis,5,6. Green mirid bug,0.9997618794441223,False
+test/4. Helopeltis/helopeltis_00200_jpg.rf.7d80ae124fd60d3057bcad30eae94bbc.jpg,3,4. Helopeltis,1,2. Brown Blight,0.9791025519371033,False
+test/4. Helopeltis/helopeltis_00201_jpg.rf.5db89206fb92872b53de7fff1d50450c.jpg,3,4. Helopeltis,1,2. Brown Blight,0.9609036445617676,False
+test/4. Helopeltis/helopeltis_00202_jpg.rf.e91a1d5b76c150a5c418e674b0d54462.jpg,3,4. Helopeltis,1,2. Brown Blight,0.6790494918823242,False
+test/4. Helopeltis/helopeltis_00204_jpg.rf.5bdd1217f301aca8d103adf90fb8685f.jpg,3,4. Helopeltis,3,4. Helopeltis,0.7060432434082031,True
+test/4. Helopeltis/helopeltis_00225_jpg.rf.c706b1410d7c8e291e324e0d04efb27c.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9998339414596558,True
+test/4. Helopeltis/helopeltis_00244_jpg.rf.6907ab6accbac244d8bd6d8e44d80436.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9951808452606201,True
+test/4. Helopeltis/helopeltis_00251_jpg.rf.da896023fecfe0226fa485adb2c7ba71.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9992551207542419,True
+test/4. Helopeltis/helopeltis_00255_jpg.rf.40dc74006b085e12bf12cfc595c677a3.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9994857311248779,True
+test/4. Helopeltis/helopeltis_00274_jpg.rf.fa21d2c087032e2a7ee20fab6b43ce8f.jpg,3,4. Helopeltis,3,4. Helopeltis,0.7994371652603149,True
+test/4. Helopeltis/helopeltis_00276_jpg.rf.8c5fe2cedcc8a4aec171092f173e4092.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9876731038093567,True
+test/4. Helopeltis/helopeltis_00279_jpg.rf.cf6f11c093c30829ef44ea37777c3594.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9080013036727905,True
+test/4. Helopeltis/helopeltis_00290_jpg.rf.e8c20330b6598cbcf53644c4c3146d00.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9976058006286621,True
+test/4. Helopeltis/helopeltis_00292_jpg.rf.42cd28a90d9bc512b2fc52dcf26325ba.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9339447617530823,True
+test/4. Helopeltis/helopeltis_00323_jpg.rf.c9c855c8fd04c53c36ef70e3f6d3b708.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9962730407714844,True
+test/4. Helopeltis/helopeltis_00324_jpg.rf.d012103da1b6152b942bdf9e7091c2d8.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9999232292175293,True
+test/4. Helopeltis/helopeltis_00340_jpg.rf.e54a9e4ac30600952c3014844b78ceda.jpg,3,4. Helopeltis,3,4. Helopeltis,0.930112361907959,True
+test/4. Helopeltis/helopeltis_00354_jpg.rf.70f1005faf364a2e3f4df765cb4306e2.jpg,3,4. Helopeltis,5,6. Green mirid bug,0.9992287158966064,False
+test/4. Helopeltis/helopeltis_00360_jpg.rf.5ae3822de51c697ee4527794144799b6.jpg,3,4. Helopeltis,3,4. Helopeltis,0.6866375803947449,True
+test/4. Helopeltis/helopeltis_00368_jpg.rf.8dabb3affddbb34829ab4e22a52e6f04.jpg,3,4. Helopeltis,5,6. Green mirid bug,0.47906431555747986,False
+test/4. Helopeltis/helopeltis_00369_jpg.rf.95d2713ac122e3da0e7aab675fe16289.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9770892262458801,True
+test/4. Helopeltis/helopeltis_00379_jpg.rf.ddf595705b3162d434a608bdd87485f4.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9999308586120605,True
+test/4. Helopeltis/helopeltis_00380_jpg.rf.9b4d9e2fb37f627e5c3b970aafdf9945.jpg,3,4. Helopeltis,3,4. Helopeltis,0.7606104612350464,True
+test/4. Helopeltis/helopeltis_00398_jpg.rf.2ccab8bf856b753dc6e7f0320ea14fcb.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9997395873069763,True
+test/4. Helopeltis/helopeltis_00409_jpg.rf.ddfd3cfa0b55ce4f1ef4858b667f41d4.jpg,3,4. Helopeltis,5,6. Green mirid bug,0.9321597218513489,False
+test/4. Helopeltis/helopeltis_00411_jpg.rf.24a6dc5f7cc93db0149b089ca3bf2772.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9895169138908386,True
+test/4. Helopeltis/helopeltis_00418_jpg.rf.9f6c992e0cce8b2a754a6167791da44f.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9244151711463928,True
+test/4. Helopeltis/helopeltis_00420_jpg.rf.9de066c5ecc8bea7109effa9f239a308.jpg,3,4. Helopeltis,5,6. Green mirid bug,0.9518612027168274,False
+test/4. Helopeltis/helopeltis_00424_jpg.rf.7ca0345000d5bd70b94743dcfb7a36a0.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9860700964927673,True
+test/4. Helopeltis/helopeltis_00437_jpg.rf.0deb2940fe1d008f76c9512e9c9ca716.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9608131647109985,True
+test/4. Helopeltis/helopeltis_00441_jpg.rf.6c5190027781205f64d3c68f7f1248b2.jpg,3,4. Helopeltis,3,4. Helopeltis,0.7265695929527283,True
+test/4. Helopeltis/helopeltis_00454_jpg.rf.b9afd79dd92a7dbb7ca52dc87b589810.jpg,3,4. Helopeltis,5,6. Green mirid bug,0.9933133721351624,False
+test/4. Helopeltis/helopeltis_00459_jpg.rf.da09a699f9e90b1c22cff47004be9078.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9855630397796631,True
+test/4. Helopeltis/helopeltis_00476_jpg.rf.ddf585493063df02017e0a0daf7fde56.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9578245282173157,True
+test/4. Helopeltis/helopeltis_00493_jpg.rf.8ae0de08e5c40efa15a43482e3a24ba1.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9854662418365479,True
+test/4. Helopeltis/helopeltis_00501_jpg.rf.572a1269302b2d3159abded866bb26ce.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9989725351333618,True
+test/4. Helopeltis/helopeltis_00529_jpg.rf.e7e1f579bb7340aace7f1f4f18489620.jpg,3,4. Helopeltis,5,6. Green mirid bug,0.5485108494758606,False
+test/4. Helopeltis/helopeltis_00541_jpg.rf.f6f1bbc3d578dd735374e8d3792ca31d.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9920955300331116,True
+test/4. Helopeltis/helopeltis_00543_jpg.rf.247d5d8c9d8960df4b1a569cb239a878.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9641865491867065,True
+test/4. Helopeltis/helopeltis_00555_jpg.rf.b5baad7689bd46aa06cc954ff15d7afb.jpg,3,4. Helopeltis,6,7. Healthy leaf,0.5024372935295105,False
+test/4. Helopeltis/helopeltis_00566_jpg.rf.da9150e67ba93ff28857e42d426542cd.jpg,3,4. Helopeltis,3,4. Helopeltis,0.9993353486061096,True
+test/4. Helopeltis/helopeltis_00592_jpg.rf.697fe62ee9b321b70ffd5eeac676cf19.jpg,3,4. Helopeltis,0,1. Tea algal leaf spot,0.4413455128669739,False
+test/5. Red spider/red_spider_00003_jpg.rf.d72f93cd7c74d3df7109017d9acd92e4.jpg,4,5. Red spider,4,5. Red spider,0.9902986288070679,True
+test/5. Red spider/red_spider_00007_jpg.rf.74fe34d2d648465e03ba4b4948758aaa.jpg,4,5. Red spider,4,5. Red spider,0.997694194316864,True
+test/5. Red spider/red_spider_00008_jpg.rf.460ef03d1fd3b5d8a77d08b26dfd7920.jpg,4,5. Red spider,4,5. Red spider,0.9930269122123718,True
+test/5. Red spider/red_spider_00044_jpg.rf.3e29eba37d0ca38c3459b4f63f57aff2.jpg,4,5. Red spider,4,5. Red spider,0.9999783039093018,True
+test/5. Red spider/red_spider_00050_jpg.rf.03be732f9d8e511cda315f34551869fb.jpg,4,5. Red spider,4,5. Red spider,0.999701201915741,True
+test/5. Red spider/red_spider_00059_jpg.rf.1e8102780fc1397fa85d7df71ec3562b.jpg,4,5. Red spider,6,7. Healthy leaf,0.7838191986083984,False
+test/5. Red spider/red_spider_00061_jpg.rf.d143cf7d01c352eeed83e11971bd1368.jpg,4,5. Red spider,6,7. Healthy leaf,0.9735865592956543,False
+test/5. Red spider/red_spider_00066_jpg.rf.933cf178c8d3eef339af463e7b6ed5dd.jpg,4,5. Red spider,6,7. Healthy leaf,0.9846342206001282,False
+test/5. Red spider/red_spider_00076_jpg.rf.a67c56e49c8a5cf707156e5d1ed73998.jpg,4,5. Red spider,4,5. Red spider,0.9990689158439636,True
+test/5. Red spider/red_spider_00096_jpg.rf.8e8384ccd468ee960c08388acd65cb87.jpg,4,5. Red spider,4,5. Red spider,0.9745593070983887,True
+test/5. Red spider/red_spider_00101_jpg.rf.6837bd126a5ecd1ddf3dd5beb63bb673.jpg,4,5. Red spider,4,5. Red spider,0.6440770030021667,True
+test/5. Red spider/red_spider_00104_jpg.rf.e9c29851aaf44b0530e594be85a62442.jpg,4,5. Red spider,4,5. Red spider,0.9968292117118835,True
+test/5. Red spider/red_spider_00120_jpg.rf.51d501d968573d76fd398ea9694fc278.jpg,4,5. Red spider,4,5. Red spider,0.9899680614471436,True
+test/5. Red spider/red_spider_00127_jpg.rf.af9a05357d7dce75e48ea3d84fe15a8d.jpg,4,5. Red spider,4,5. Red spider,0.9999988079071045,True
+test/5. Red spider/red_spider_00153_jpg.rf.5e6ee798576b36f1e6bc7571b0ea0057.jpg,4,5. Red spider,4,5. Red spider,0.7256016731262207,True
+test/5. Red spider/red_spider_00161_jpg.rf.80341af0267d1c95561ea88c1a48e2c1.jpg,4,5. Red spider,4,5. Red spider,0.9656716585159302,True
+test/5. Red spider/red_spider_00168_jpg.rf.377b8040ee31cc50f2114fe9ca6a9ce2.jpg,4,5. Red spider,4,5. Red spider,0.9999862909317017,True
+test/5. Red spider/red_spider_00188_jpg.rf.62216162af32380c32d15971c86ddf5f.jpg,4,5. Red spider,4,5. Red spider,0.9635484218597412,True
+test/5. Red spider/red_spider_00202_jpg.rf.df76b2bfb61b517431dab5d1b144b44e.jpg,4,5. Red spider,4,5. Red spider,0.9984381794929504,True
+test/5. Red spider/red_spider_00204_jpg.rf.93b39a44eff1867d0a6242a47a6e1bfa.jpg,4,5. Red spider,4,5. Red spider,0.999407172203064,True
+test/5. Red spider/red_spider_00206_jpg.rf.7ed6e384e5496c41ebec7def4c5ea9aa.jpg,4,5. Red spider,4,5. Red spider,0.9975824356079102,True
+test/5. Red spider/red_spider_00220_jpg.rf.64cc88795480f6c372e0b3d656101bef.jpg,4,5. Red spider,3,4. Helopeltis,0.7195155024528503,False
+test/5. Red spider/red_spider_00227_jpg.rf.3a3ccaaea069b46b1cedeec6beea1522.jpg,4,5. Red spider,4,5. Red spider,0.6910820007324219,True
+test/5. Red spider/red_spider_00241_jpg.rf.b5db0d67743234c8f43955b98815bc28.jpg,4,5. Red spider,4,5. Red spider,0.9937357902526855,True
+test/5. Red spider/red_spider_00253_jpg.rf.0c740e2223ef2a33ca3ef04cbfdd694a.jpg,4,5. Red spider,4,5. Red spider,0.999417781829834,True
+test/5. Red spider/red_spider_00254_jpg.rf.9454b8a4fa5ab25ac38ad99521d652d6.jpg,4,5. Red spider,4,5. Red spider,0.5024970769882202,True
+test/5. Red spider/red_spider_00272_jpg.rf.19f40dedf00549d49009393ea774a84c.jpg,4,5. Red spider,4,5. Red spider,0.9523912668228149,True
+test/5. Red spider/red_spider_00279_jpg.rf.55f61d720b45f5ad6fa9511edad31bd3.jpg,4,5. Red spider,4,5. Red spider,0.9988742470741272,True
+test/5. Red spider/red_spider_00292_jpg.rf.c2a169dc34778bae78dacf285aa1761a.jpg,4,5. Red spider,4,5. Red spider,0.9983640313148499,True
+test/5. Red spider/red_spider_00307_jpg.rf.9034f20a9774b87cab76dc29f068393f.jpg,4,5. Red spider,2,3. Gray Blight,0.6509935855865479,False
+test/5. Red spider/red_spider_00311_jpg.rf.5e468353c9aa1868cae1cbd9419b5f28.jpg,4,5. Red spider,2,3. Gray Blight,0.5697278380393982,False
+test/5. Red spider/red_spider_00313_jpg.rf.b43e156118bf929f3c5a6a70eaa7a781.jpg,4,5. Red spider,4,5. Red spider,0.9929359555244446,True
+test/5. Red spider/red_spider_00321_jpg.rf.25321eb48b163c0b62bc4ab5483d1ca3.jpg,4,5. Red spider,4,5. Red spider,0.8242037892341614,True
+test/5. Red spider/red_spider_00329_jpg.rf.7777cd663ca4920aaac313517cae7e30.jpg,4,5. Red spider,4,5. Red spider,0.9998364448547363,True
+test/5. Red spider/red_spider_00359_jpg.rf.b92936654a813e754dc9e7e0a452fb80.jpg,4,5. Red spider,4,5. Red spider,0.9999171495437622,True
+test/5. Red spider/red_spider_00373_jpg.rf.fbb23eb3db30754135ff917c711670f8.jpg,4,5. Red spider,6,7. Healthy leaf,0.8808351755142212,False
+test/5. Red spider/red_spider_00388_jpg.rf.8b817688e72f211c205d08a8d3fe1e3c.jpg,4,5. Red spider,4,5. Red spider,0.991391658782959,True
+test/5. Red spider/red_spider_00391_jpg.rf.bae19f636ba268b64771b2433890fc5d.jpg,4,5. Red spider,1,2. Brown Blight,0.5484703779220581,False
+test/5. Red spider/red_spider_00428_jpg.rf.a0dbb712c663e6461cd49549b1f31610.jpg,4,5. Red spider,4,5. Red spider,0.9825870394706726,True
+test/5. Red spider/red_spider_00434_jpg.rf.9f1e68a7a8134c67c99dddad0e0030d4.jpg,4,5. Red spider,4,5. Red spider,0.9999359846115112,True
+test/5. Red spider/red_spider_00436_jpg.rf.28fd66bcbedfb551d5ac3f8d1c63a77b.jpg,4,5. Red spider,4,5. Red spider,0.9973752498626709,True
+test/5. Red spider/red_spider_00439_jpg.rf.a4e2bc50af47db6c03ff3162e008fde9.jpg,4,5. Red spider,4,5. Red spider,0.8545485734939575,True
+test/5. Red spider/red_spider_00440_jpg.rf.6b9c2ab28100cb6aac82ad1f90dad27b.jpg,4,5. Red spider,2,3. Gray Blight,0.6141404509544373,False
+test/5. Red spider/red_spider_00441_jpg.rf.c9a6b8e794825510107454dc1eb529ee.jpg,4,5. Red spider,4,5. Red spider,0.9923801422119141,True
+test/5. Red spider/red_spider_00442_jpg.rf.a7dfbce4d133dc74d71894104fe04911.jpg,4,5. Red spider,4,5. Red spider,0.7367376089096069,True
+test/5. Red spider/red_spider_00456_jpg.rf.736daf0e7cae849dd4d5a94a52754aa1.jpg,4,5. Red spider,4,5. Red spider,0.9829434156417847,True
+test/5. Red spider/red_spider_00459_jpg.rf.48320cbdb60deed59a724bc65ccf15c3.jpg,4,5. Red spider,4,5. Red spider,0.9987566471099854,True
+test/5. Red spider/red_spider_00463_jpg.rf.cd9ecf5669169004d266f776173ccbea.jpg,4,5. Red spider,4,5. Red spider,0.6493801474571228,True
+test/5. Red spider/red_spider_00469_jpg.rf.b6bef76c7d455c36261493d8c84d8d47.jpg,4,5. Red spider,4,5. Red spider,0.989274799823761,True
+test/5. Red spider/red_spider_00478_jpg.rf.36e561c6f8a48be2892149cfeb34c6f0.jpg,4,5. Red spider,4,5. Red spider,0.8470048308372498,True
+test/5. Red spider/red_spider_00496_jpg.rf.358b3bccdab53305785ac3f7350e5315.jpg,4,5. Red spider,4,5. Red spider,0.7695388793945312,True
+test/5. Red spider/red_spider_00508_jpg.rf.498d43d96623cbacd82c29b04cec60e6.jpg,4,5. Red spider,4,5. Red spider,0.9998112320899963,True
+test/6. Green mirid bug/green_mirid_bug_00003_jpg.rf.b4fcd3bfb2bc171b627ff924b7732be9.jpg,5,6. Green mirid bug,4,5. Red spider,0.8455306887626648,False
+test/6. Green mirid bug/green_mirid_bug_00005_jpg.rf.0026d3a134e95bba5a217180af445b1e.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9994707703590393,True
+test/6. Green mirid bug/green_mirid_bug_00010_jpg.rf.3e44a5dfaaac1b1e974fb7ddea24823f.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.8785687685012817,True
+test/6. Green mirid bug/green_mirid_bug_00015_jpg.rf.59485838a5c6900f0c3d1d8a8db6ec78.jpg,5,6. Green mirid bug,6,7. Healthy leaf,0.9553030729293823,False
+test/6. Green mirid bug/green_mirid_bug_00018_jpg.rf.4fba941fd3905f0d64a24910b832155f.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.8928718566894531,True
+test/6. Green mirid bug/green_mirid_bug_00019_jpg.rf.234f55bee45fcd41856562a982f942b8.jpg,5,6. Green mirid bug,3,4. Helopeltis,0.9922728538513184,False
+test/6. Green mirid bug/green_mirid_bug_00020_jpg.rf.1d2c413647da98664d049972a431bd45.jpg,5,6. Green mirid bug,3,4. Helopeltis,0.3638293147087097,False
+test/6. Green mirid bug/green_mirid_bug_00035_jpg.rf.86470cca52d30d4329254b0e63deb957.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999961853027344,True
+test/6. Green mirid bug/green_mirid_bug_00036_jpg.rf.77c37eca366cfc18168aa82219100b29.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9998026490211487,True
+test/6. Green mirid bug/green_mirid_bug_00040_jpg.rf.6c252e3babc04b3f57053e23412addc9.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999188184738159,True
+test/6. Green mirid bug/green_mirid_bug_00043_jpg.rf.6a4718bd00655fda7140fa0d895b981d.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9992154836654663,True
+test/6. Green mirid bug/green_mirid_bug_00052_jpg.rf.466097b9216baf959a2050e523b5b4fd.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.845259428024292,True
+test/6. Green mirid bug/green_mirid_bug_00053_jpg.rf.0254fa22bc74b0605903c4def9c543e5.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9986675977706909,True
+test/6. Green mirid bug/green_mirid_bug_00060_jpg.rf.51edee7d060347f7f64ae38d69014d9d.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9990271329879761,True
+test/6. Green mirid bug/green_mirid_bug_00062_jpg.rf.3748d38d930f8c71e590e4caef354da8.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999778270721436,True
+test/6. Green mirid bug/green_mirid_bug_00073_jpg.rf.e29eb6cfa9c4d38da34ba79838d71407.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999996423721313,True
+test/6. Green mirid bug/green_mirid_bug_00089_jpg.rf.65bdff6f86fd59f9858fc41527a2fab7.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999665021896362,True
+test/6. Green mirid bug/green_mirid_bug_00090_jpg.rf.a164b8ea75a4adad1827b988a6143d49.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999864101409912,True
+test/6. Green mirid bug/green_mirid_bug_00110_jpg.rf.21efd89b9450de3ca3f4cf83ff3e5d3a.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9982024431228638,True
+test/6. Green mirid bug/green_mirid_bug_00122_jpg.rf.fe8a202ba3887cf1e9447754f5ca9138.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9973627924919128,True
+test/6. Green mirid bug/green_mirid_bug_00128_jpg.rf.fc018e918481d96dee2105822ff990b7.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9920346140861511,True
+test/6. Green mirid bug/green_mirid_bug_00137_jpg.rf.7da4a45718521175d0f6c5d8d02d44eb.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9998200535774231,True
+test/6. Green mirid bug/green_mirid_bug_00143_jpg.rf.e4c2290485211bc1643c35243d88a1ad.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.7948430180549622,True
+test/6. Green mirid bug/green_mirid_bug_00156_jpg.rf.12681faa0eb3617d1299c89e3929321a.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9997228980064392,True
+test/6. Green mirid bug/green_mirid_bug_00177_jpg.rf.89af739240860a6fb5833447f25121de.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9865636825561523,True
+test/6. Green mirid bug/green_mirid_bug_00190_jpg.rf.531e6907da9b5339702d34c6acffd199.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9987781643867493,True
+test/6. Green mirid bug/green_mirid_bug_00193_jpg.rf.54fb2c0d73e27f1a8b3a6b3d945e396d.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9017619490623474,True
+test/6. Green mirid bug/green_mirid_bug_00214_jpg.rf.b6f91dcdb5c25db401535b59b061aecb.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9993276596069336,True
+test/6. Green mirid bug/green_mirid_bug_00220_jpg.rf.2f5123d3a04350d52bacd90e59f64f49.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9990519881248474,True
+test/6. Green mirid bug/green_mirid_bug_00227_jpg.rf.c0a86c6cc9ff8ef2edb5fdd737756c72.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999598264694214,True
+test/6. Green mirid bug/green_mirid_bug_00243_jpg.rf.14740712c71428652f42285d29f8bb0e.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9673464894294739,True
+test/6. Green mirid bug/green_mirid_bug_00245_jpg.rf.a3b2da6d836fcabcb68447b5d4b96510.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9992645382881165,True
+test/6. Green mirid bug/green_mirid_bug_00270_jpg.rf.01290be8e086e730dc4bca5c444131d2.jpg,5,6. Green mirid bug,4,5. Red spider,0.9136346578598022,False
+test/6. Green mirid bug/green_mirid_bug_00284_jpg.rf.611274da71b4bc3fa7c49e9ed5a8fb85.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9997791647911072,True
+test/6. Green mirid bug/green_mirid_bug_00294_jpg.rf.abb87a5bef3121ed484cc0c1d5e18516.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.8299098014831543,True
+test/6. Green mirid bug/green_mirid_bug_00305_jpg.rf.6300cab9239152945b44cdc125b295da.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9807115197181702,True
+test/6. Green mirid bug/green_mirid_bug_00310_jpg.rf.3c7177c3cdf5c80838619e38a85e2259.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.5285178422927856,True
+test/6. Green mirid bug/green_mirid_bug_00344_jpg.rf.e28eac04b132775bf2b8d017fdae22ef.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.96051424741745,True
+test/6. Green mirid bug/green_mirid_bug_00350_jpg.rf.6e73725947a3811b3c2dc69f70972089.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999995231628418,True
+test/6. Green mirid bug/green_mirid_bug_00352_jpg.rf.0dba42543c6c458270960b26f6e9c02a.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9988344311714172,True
+test/6. Green mirid bug/green_mirid_bug_00365_jpg.rf.7978595e8b93de7af7c011aba0975793.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9855132699012756,True
+test/6. Green mirid bug/green_mirid_bug_00367_jpg.rf.92bcd7c63011e1bc29a255167cd781f8.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.4957621991634369,True
+test/6. Green mirid bug/green_mirid_bug_00375_jpg.rf.0820d0fec82a8d6ac8b16ff4e3625f37.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.5022700428962708,True
+test/6. Green mirid bug/green_mirid_bug_00402_jpg.rf.dab134ebe60c2d09c0f4c07178afd1a2.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.45275941491127014,True
+test/6. Green mirid bug/green_mirid_bug_00407_jpg.rf.d34eb74ab2a216827ad73a76bbe87693.jpg,5,6. Green mirid bug,6,7. Healthy leaf,0.998798131942749,False
+test/6. Green mirid bug/green_mirid_bug_00416_jpg.rf.20bd5e7dbc34bafc8be5fd3ba4d52b51.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9997819066047668,True
+test/6. Green mirid bug/green_mirid_bug_00419_jpg.rf.daf640c57f38285e8e85e92034cdb552.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9958536624908447,True
+test/6. Green mirid bug/green_mirid_bug_00434_jpg.rf.0aa8610debbb4ecec83009e94b879142.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999984502792358,True
+test/6. Green mirid bug/green_mirid_bug_00482_jpg.rf.5e4dcd94c1fe868171939ac7241aba12.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999552965164185,True
+test/6. Green mirid bug/green_mirid_bug_00495_jpg.rf.15a55123c53c3f3ff7058a24e8c51dc3.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999793767929077,True
+test/6. Green mirid bug/green_mirid_bug_00497_jpg.rf.7a43bd3376d251cf98f94151d264be3c.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.975533664226532,True
+test/6. Green mirid bug/green_mirid_bug_00499_jpg.rf.186c8dc49a1f35ff0d171c953c69f2ce.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9864562749862671,True
+test/6. Green mirid bug/green_mirid_bug_00501_jpg.rf.26c30cc55d31d0fc59928f3b54aa9115.jpg,5,6. Green mirid bug,2,3. Gray Blight,0.88121497631073,False
+test/6. Green mirid bug/green_mirid_bug_00514_jpg.rf.7d1119a3e086fcdad363046c1a508957.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9429022073745728,True
+test/6. Green mirid bug/green_mirid_bug_00526_jpg.rf.829b7497881cb43c31503f279942764c.jpg,5,6. Green mirid bug,3,4. Helopeltis,0.762963593006134,False
+test/6. Green mirid bug/green_mirid_bug_00530_jpg.rf.9b850586c141be0bcfcf2d16940489f2.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9861189126968384,True
+test/6. Green mirid bug/green_mirid_bug_00531_jpg.rf.24130c052f088e056b42f6ad15567bf7.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9427981972694397,True
+test/6. Green mirid bug/green_mirid_bug_00545_jpg.rf.6a3a4198070b70f24dd0f27ed33dfb18.jpg,5,6. Green mirid bug,1,2. Brown Blight,0.4838045537471771,False
+test/6. Green mirid bug/green_mirid_bug_00574_jpg.rf.ff090d47627ae50aa838114cfac62f49.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9601908922195435,True
+test/6. Green mirid bug/green_mirid_bug_00586_jpg.rf.2ccef1defe820deb211167798859ecb9.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.999992847442627,True
+test/6. Green mirid bug/green_mirid_bug_00595_jpg.rf.8af68882028ccdfccea8d4e54480e5ca.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9666256904602051,True
+test/6. Green mirid bug/green_mirid_bug_00600_jpg.rf.d4b80a43c6ec1c571c2a1da62964bdb0.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.7146584987640381,True
+test/6. Green mirid bug/green_mirid_bug_00621_jpg.rf.56afd7f71c79207215b519232c94ee9f.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.5072147846221924,True
+test/6. Green mirid bug/green_mirid_bug_00622_jpg.rf.22d6956450f0076aa7792b37fd02dd86.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.63884437084198,True
+test/6. Green mirid bug/green_mirid_bug_00634_jpg.rf.a3f0db376fbc9470e5d1c41fe31a7da0.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.7193382382392883,True
+test/6. Green mirid bug/green_mirid_bug_00649_jpg.rf.c31a99198400d1440fa4417a60805302.jpg,5,6. Green mirid bug,3,4. Helopeltis,0.992889404296875,False
+test/6. Green mirid bug/green_mirid_bug_00661_jpg.rf.431181a0064780498bda087320b5b317.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.92264723777771,True
+test/6. Green mirid bug/green_mirid_bug_00664_jpg.rf.cf4be4fb4fd35d55150f7c718d78a8c8.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.831110954284668,True
+test/6. Green mirid bug/green_mirid_bug_00668_jpg.rf.d87b4ee5a92fd68f8bd4a9e27bf509c3.jpg,5,6. Green mirid bug,2,3. Gray Blight,0.7026444673538208,False
+test/6. Green mirid bug/green_mirid_bug_00681_jpg.rf.68c29e6020db180f60fec77c9493cc18.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.936757504940033,True
+test/6. Green mirid bug/green_mirid_bug_00688_jpg.rf.a38f631157221869b45b63b5fed1b054.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9977927207946777,True
+test/6. Green mirid bug/green_mirid_bug_00718_jpg.rf.f6266313b651b9221b301fe38aee5e2d.jpg,5,6. Green mirid bug,3,4. Helopeltis,0.8213937878608704,False
+test/6. Green mirid bug/green_mirid_bug_00725_jpg.rf.484d36c9eb38a0c06563c0efc4096dd3.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999407529830933,True
+test/6. Green mirid bug/green_mirid_bug_00733_jpg.rf.b988e79e82b4da9bc39485a233504245.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9888939261436462,True
+test/6. Green mirid bug/green_mirid_bug_00761_jpg.rf.46a95ae2617511d83240da38cc328627.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999992847442627,True
+test/6. Green mirid bug/green_mirid_bug_00763_jpg.rf.56b3bc33d5399a052d3fc0b3bf1a07b1.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.994473397731781,True
+test/6. Green mirid bug/green_mirid_bug_00768_jpg.rf.99feb0b408be501cfe77b4c8e2625bdd.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9976245760917664,True
+test/6. Green mirid bug/green_mirid_bug_00777_jpg.rf.8b63d4ecb2a4b97a459644cab6f8e2f1.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.969648540019989,True
+test/6. Green mirid bug/green_mirid_bug_00778_jpg.rf.0190d3260ce85530cc2e04391d74084a.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9931301474571228,True
+test/6. Green mirid bug/green_mirid_bug_00784_jpg.rf.7b14ae81863df4aca31b74e89e8e564b.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999995231628418,True
+test/6. Green mirid bug/green_mirid_bug_00785_jpg.rf.7412a74f7d74ddb51f67d67a5098fc36.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9998296499252319,True
+test/6. Green mirid bug/green_mirid_bug_00792_jpg.rf.5c4cf8fa7836531607c10f26f7c42a73.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999710321426392,True
+test/6. Green mirid bug/green_mirid_bug_00794_jpg.rf.111bcafb9a668f66afefc0e2bd71a68e.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9998691082000732,True
+test/6. Green mirid bug/green_mirid_bug_00811_jpg.rf.f4f322ccfcc10427f7a4203e5d1e88ca.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.6523947715759277,True
+test/6. Green mirid bug/green_mirid_bug_00812_jpg.rf.14746d3fa2367a74688450d4dc285ebc.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.382968932390213,True
+test/6. Green mirid bug/green_mirid_bug_00814_jpg.rf.5c93e160771938146542e9e5ce703d82.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9726846218109131,True
+test/6. Green mirid bug/green_mirid_bug_00843_jpg.rf.4e8da7070017c8fb3bdb4148194a1d30.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999980926513672,True
+test/6. Green mirid bug/green_mirid_bug_00857_jpg.rf.dd7d210d237f98f1962c4b006f854ee7.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.931331992149353,True
+test/6. Green mirid bug/green_mirid_bug_00858_jpg.rf.324608dc73a5d4e240bcfb169a92d436.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9365171790122986,True
+test/6. Green mirid bug/green_mirid_bug_00872_jpg.rf.0677d5b74b8fa5a4ffa79c28c3742c84.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9993070363998413,True
+test/6. Green mirid bug/green_mirid_bug_00884_jpg.rf.fe4de708248752f35b9b211f16de6def.jpg,5,6. Green mirid bug,3,4. Helopeltis,0.7783424854278564,False
+test/6. Green mirid bug/green_mirid_bug_00898_jpg.rf.edf27c22843642f15556c01bc591852f.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9979429841041565,True
+test/6. Green mirid bug/green_mirid_bug_00910_jpg.rf.7e808609f5ace6c047527920be12e646.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9541956782341003,True
+test/6. Green mirid bug/green_mirid_bug_00915_jpg.rf.db16889abef860af167376e780402dde.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.45660945773124695,True
+test/6. Green mirid bug/green_mirid_bug_00921_jpg.rf.f4e75da935f228f8bdceeb4a16a718b9.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9905560612678528,True
+test/6. Green mirid bug/green_mirid_bug_00931_jpg.rf.12d9b157de097753daddfbc0a83a13e6.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999971389770508,True
+test/6. Green mirid bug/green_mirid_bug_00941_jpg.rf.0cb48a44c3775c92bcb5d47fdfd6e67c.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9958325028419495,True
+test/6. Green mirid bug/green_mirid_bug_00944_jpg.rf.05a560ad16b9f43f3afb50e4b857ab51.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.999340832233429,True
+test/6. Green mirid bug/green_mirid_bug_00993_jpg.rf.6ff0b30575a8c535c442135e7530c670.jpg,5,6. Green mirid bug,4,5. Red spider,0.556280255317688,False
+test/6. Green mirid bug/green_mirid_bug_01000_jpg.rf.156b8b380d84be92306631987953177b.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9591355323791504,True
+test/6. Green mirid bug/green_mirid_bug_01001_jpg.rf.dcfd44afef77705c0931c83484dee695.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9760914444923401,True
+test/6. Green mirid bug/green_mirid_bug_01004_jpg.rf.b21c7d31da85ef3d2775eed68dad572c.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.7262223958969116,True
+test/6. Green mirid bug/green_mirid_bug_01005_jpg.rf.0e9857a73e06a5672729cbf0c30c3e3c.jpg,5,6. Green mirid bug,2,3. Gray Blight,0.7288778424263,False
+test/6. Green mirid bug/green_mirid_bug_01011_jpg.rf.42aca542cca4fde62a5af35375e29ab6.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9661459922790527,True
+test/6. Green mirid bug/green_mirid_bug_01031_jpg.rf.41f77ced951667f36b7a6b82724c41fc.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9996886253356934,True
+test/6. Green mirid bug/green_mirid_bug_01032_jpg.rf.eadcd6f7bac2a5d3c9477a1fed66060f.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9787543416023254,True
+test/6. Green mirid bug/green_mirid_bug_01055_jpg.rf.00728438d78de4f83b6c5b0fc6f9534b.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9435863494873047,True
+test/6. Green mirid bug/green_mirid_bug_01062_jpg.rf.04938e04a3145923b01022f1e1d5b4b9.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9997382760047913,True
+test/6. Green mirid bug/green_mirid_bug_01070_jpg.rf.eb51cde27346be3a09cbd4ecde7e2cdb.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.999721109867096,True
+test/6. Green mirid bug/green_mirid_bug_01073_jpg.rf.4d48cd831b7ac8b17c5b556a61f74c08.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9981136322021484,True
+test/6. Green mirid bug/green_mirid_bug_01105_jpg.rf.69b26f979fa242dfb9c073261c0e69ff.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.6625033617019653,True
+test/6. Green mirid bug/green_mirid_bug_01107_jpg.rf.962f264582b388813261b94baf52f014.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.855843722820282,True
+test/6. Green mirid bug/green_mirid_bug_01132_jpg.rf.c190163e82c1d7a09221ad242aa97367.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.7581860423088074,True
+test/6. Green mirid bug/green_mirid_bug_01144_jpg.rf.f1f320b067aa79412e7ace67212b4233.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9522320032119751,True
+test/6. Green mirid bug/green_mirid_bug_01153_jpg.rf.98aaf9a5f5831acfd9596d82e4156dbb.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9994643330574036,True
+test/6. Green mirid bug/green_mirid_bug_01163_jpg.rf.4d38c55c3f97a522eac8d8ff6ca8ccc0.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999947547912598,True
+test/6. Green mirid bug/green_mirid_bug_01168_jpg.rf.939ca6059bdac800e761b4e5dbf70dfc.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9953729510307312,True
+test/6. Green mirid bug/green_mirid_bug_01176_jpg.rf.7b3974ed2a353052f3284562e5234f89.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9982752799987793,True
+test/6. Green mirid bug/green_mirid_bug_01180_jpg.rf.ea511b204ca382dd11d4ba2157465def.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9995459914207458,True
+test/6. Green mirid bug/green_mirid_bug_01184_jpg.rf.060075665a2fa2fced2cf667eb1e2cac.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9998914003372192,True
+test/6. Green mirid bug/green_mirid_bug_01186_jpg.rf.1881dab5f0f1a7ec185987296f936eed.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9853670597076416,True
+test/6. Green mirid bug/green_mirid_bug_01195_jpg.rf.1b3a4d74f39d319dbc78849116b3bbca.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9957846999168396,True
+test/6. Green mirid bug/green_mirid_bug_01199_jpg.rf.051755f5e144d10162002d890f199990.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9977989792823792,True
+test/6. Green mirid bug/green_mirid_bug_01206_jpg.rf.abb0ee8402b84f012357a64c2288cc8a.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999732971191406,True
+test/6. Green mirid bug/green_mirid_bug_01219_jpg.rf.750b19d40f800abdb439d70389e301cb.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.8474776148796082,True
+test/6. Green mirid bug/green_mirid_bug_01230_jpg.rf.4509873eb3c4e865724618ca463e722c.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9091325402259827,True
+test/6. Green mirid bug/green_mirid_bug_01234_jpg.rf.9738a1d74f63fd8c5b864b1a2f90d34f.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9999887943267822,True
+test/6. Green mirid bug/green_mirid_bug_01235_jpg.rf.17ecf1d32a0fcd908e6e11745cebf19c.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.7697224020957947,True
+test/6. Green mirid bug/green_mirid_bug_01236_jpg.rf.095f5f01b0fcfc3bf2698d326b724b0e.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9977520108222961,True
+test/6. Green mirid bug/green_mirid_bug_01244_jpg.rf.72b500117fe2a37a6dbd2e6cb3c74334.jpg,5,6. Green mirid bug,1,2. Brown Blight,0.6973294019699097,False
+test/6. Green mirid bug/green_mirid_bug_01255_jpg.rf.70d8d3578a6e02e931393402c078773d.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.999884843826294,True
+test/6. Green mirid bug/green_mirid_bug_01271_jpg.rf.0c5aa74afeaf6a2793bbb48ca92fbd5b.jpg,5,6. Green mirid bug,5,6. Green mirid bug,0.9903832077980042,True
+test/6. Green mirid bug/green_mirid_bug_01277_jpg.rf.84fc642df58dc9dfd9578ef7208dddb2.jpg,5,6. Green mirid bug,3,4. Helopeltis,0.9381356239318848,False
+test/7. Healthy leaf/healthy_00006_jpg.rf.7979be4f7fb6830fceda04d2f6125e31.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9974084496498108,True
+test/7. Healthy leaf/healthy_00008_jpg.rf.4494084ffb12830047bbb35b1b0b4148.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999529123306274,True
+test/7. Healthy leaf/healthy_00018_jpg.rf.4df60c5067c9aed8149f590f5b6ece22.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.999981164932251,True
+test/7. Healthy leaf/healthy_00033_jpg.rf.bd68835588645c3a08a60ccb39ad3a3a.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999587535858154,True
+test/7. Healthy leaf/healthy_00038_jpg.rf.9de8c3b6b44a5b3f2ef3cd870403d36d.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999934434890747,True
+test/7. Healthy leaf/healthy_00040_jpg.rf.4258b21c8ad607449e9fe803592c9a4f.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9996682405471802,True
+test/7. Healthy leaf/healthy_00044_jpg.rf.592beec9c5e4c6da65ec1fb8834730c2.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999872446060181,True
+test/7. Healthy leaf/healthy_00049_jpg.rf.44161875337258d06731063a291c7b7c.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9981154203414917,True
+test/7. Healthy leaf/healthy_00050_jpg.rf.25b6a061960f0d09d8654e6a5e1753dc.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9875592589378357,True
+test/7. Healthy leaf/healthy_00057_jpg.rf.9399dd657fa865ee44b34ec230cc60e8.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9991713762283325,True
+test/7. Healthy leaf/healthy_00063_jpg.rf.92318893f157a0ebe637ba7b74b10bb3.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9993185997009277,True
+test/7. Healthy leaf/healthy_00072_jpg.rf.1d0253f5bdfe4334c00ee6a71fb55c3e.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9828404188156128,True
+test/7. Healthy leaf/healthy_00082_jpg.rf.4ade3f0b4c488afe95e2574e5d35c596.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999599456787109,True
+test/7. Healthy leaf/healthy_00094_jpg.rf.682878e063ed4c5b8a3526074c7a16a7.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9833712577819824,True
+test/7. Healthy leaf/healthy_00095_jpg.rf.fdd6431b1e16db975c1d15d7891b49ff.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9961767196655273,True
+test/7. Healthy leaf/healthy_00098_jpg.rf.8c132bca0254e7c974a8051000443796.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999246597290039,True
+test/7. Healthy leaf/healthy_00112_jpg.rf.77082c0937e77ad4853e75494f15b2a8.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9998759031295776,True
+test/7. Healthy leaf/healthy_00119_jpg.rf.cd8c13960f069be7b78a7cfa3f052ab5.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9920367002487183,True
+test/7. Healthy leaf/healthy_00125_jpg.rf.fd2c269f9f8e30d6025a4ecadb2dfccb.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9996858835220337,True
+test/7. Healthy leaf/healthy_00137_jpg.rf.5ea847b93edff883bdcbb69e6cd85f79.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9997044205665588,True
+test/7. Healthy leaf/healthy_00156_jpg.rf.e983f3c08eb27c2a77f9b74e1293ea4a.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.998650848865509,True
+test/7. Healthy leaf/healthy_00171_jpg.rf.f215baa9e52dbf05570904f676e7d6a2.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9997512698173523,True
+test/7. Healthy leaf/healthy_00178_jpg.rf.0b3fcbc838762d82bda741492634719d.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.5692022442817688,True
+test/7. Healthy leaf/healthy_00181_jpg.rf.f4fc494eddc35752ce34c711f1263092.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.997225821018219,True
+test/7. Healthy leaf/healthy_00183_jpg.rf.5f68c85251f9c7d009654f95ef933068.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999079704284668,True
+test/7. Healthy leaf/healthy_00190_jpg.rf.0131ece69ec94d4f56f4696295c1be1a.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9978752136230469,True
+test/7. Healthy leaf/healthy_00217_jpg.rf.c3cde5531ce60b7b477788f4a7aa9643.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9996614456176758,True
+test/7. Healthy leaf/healthy_00218_jpg.rf.f6f001fbe1c6c1c006b2e7b164670c4f.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9996540546417236,True
+test/7. Healthy leaf/healthy_00219_jpg.rf.550bdba3eaf5a756ad21d2ddde4f37f8.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999197721481323,True
+test/7. Healthy leaf/healthy_00230_jpg.rf.08849f3c909f34b74a8c0a8ce5716093.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999644756317139,True
+test/7. Healthy leaf/healthy_00247_jpg.rf.40862d6d7b11f5ac92c89691b1319730.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9777017831802368,True
+test/7. Healthy leaf/healthy_00252_jpg.rf.010377cc42cbcd4cb4f6f027c895ed78.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9953683614730835,True
+test/7. Healthy leaf/healthy_00259_jpg.rf.66db7d9b4526841e916f343dc81649ea.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9997214674949646,True
+test/7. Healthy leaf/healthy_00296_jpg.rf.0a46cc57b33ef831fd978af3aaf8ff04.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999475479125977,True
+test/7. Healthy leaf/healthy_00330_jpg.rf.79e4431b8f0566907e6d3fade21cfd2a.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9898223876953125,True
+test/7. Healthy leaf/healthy_00335_jpg.rf.7096a36ffe4e02bc2b67c471dd0c7063.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999709129333496,True
+test/7. Healthy leaf/healthy_00340_jpg.rf.595e4aa7b6b69e72c9d4dad2541fc9fb.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9385022521018982,True
+test/7. Healthy leaf/healthy_00356_jpg.rf.d38b045f600bd006a47ab7d92043c0a3.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9994390606880188,True
+test/7. Healthy leaf/healthy_00368_jpg.rf.c2a0cce53cd09d521bd2fa063c76ff74.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.5153222680091858,True
+test/7. Healthy leaf/healthy_00370_jpg.rf.3fd0daa04df284da6ae1bcfb22bec9f5.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.8683933615684509,True
+test/7. Healthy leaf/healthy_00380_jpg.rf.a170ac84ddadbb99da95b3bae60739dd.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9809773564338684,True
+test/7. Healthy leaf/healthy_00389_jpg.rf.dfc089bf78ce0c7b304dac7eb368b05a.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999905824661255,True
+test/7. Healthy leaf/healthy_00401_jpg.rf.ad7d945df98f3de8790d356117098864.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999760389328003,True
+test/7. Healthy leaf/healthy_00410_jpg.rf.f797473a85bd3d9cb38dad4681abf342.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.999985933303833,True
+test/7. Healthy leaf/healthy_00429_jpg.rf.3f572ede19a5c5a27ff2163eeedbdcc7.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9997331500053406,True
+test/7. Healthy leaf/healthy_00435_jpg.rf.513a7a4bfb00d6ae3b7c2377c865865d.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9972484707832336,True
+test/7. Healthy leaf/healthy_00436_jpg.rf.6657201e3af916d958ae28418514d124.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9607633948326111,True
+test/7. Healthy leaf/healthy_00461_jpg.rf.0aa6fb42efbc7ee7f2c9658d3256653d.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999778270721436,True
+test/7. Healthy leaf/healthy_00495_jpg.rf.5cd8da0b6cd461d92fa0e656012e01ab.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9993639588356018,True
+test/7. Healthy leaf/healthy_00519_jpg.rf.0f554658633eb7f725a992482671da02.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9997840523719788,True
+test/7. Healthy leaf/healthy_00529_jpg.rf.97814067558ea54b5f6973245129b2e3.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9945752620697021,True
+test/7. Healthy leaf/healthy_00530_jpg.rf.d488abb2e2c1df16a7719f5e744c9354.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999232292175293,True
+test/7. Healthy leaf/healthy_00549_jpg.rf.af2d6368fee480ecf8f7402d094254a4.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9981834292411804,True
+test/7. Healthy leaf/healthy_00587_jpg.rf.9cc8f6ff45077c4924e29548fb317b85.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.8905770778656006,True
+test/7. Healthy leaf/healthy_00592_jpg.rf.562c55927cf5f3f2008178264146fcbb.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9993584752082825,True
+test/7. Healthy leaf/healthy_00599_jpg.rf.aa09ef21611952fb4e1cb46de783f809.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.992196798324585,True
+test/7. Healthy leaf/healthy_00600_jpg.rf.d06be8c827949dbd938351c8aca129ab.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.6526371240615845,True
+test/7. Healthy leaf/healthy_00601_jpg.rf.22758c4641676c26ed550d87a95211eb.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9953448176383972,True
+test/7. Healthy leaf/healthy_00602_jpg.rf.d7ad076c899a1e692696f5cb90fc5225.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9997163414955139,True
+test/7. Healthy leaf/healthy_00604_jpg.rf.2165fa43ccff0c8416680038977eaf58.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9987241625785828,True
+test/7. Healthy leaf/healthy_00609_jpg.rf.eda226431df698d814ebfe1e01fe8c4e.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9966793060302734,True
+test/7. Healthy leaf/healthy_00614_jpg.rf.df33b490f0d4af52c0b2fec49a60db0b.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999750852584839,True
+test/7. Healthy leaf/healthy_00617_jpg.rf.e1d1109d03f8e653240b32aa5227f5e7.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9973495006561279,True
+test/7. Healthy leaf/healthy_00619_jpg.rf.bde08e94a15149292a7125930daf473a.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9953299760818481,True
+test/7. Healthy leaf/healthy_00648_jpg.rf.da2130153cbadccaab4f9a1030fd83ba.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9998088479042053,True
+test/7. Healthy leaf/healthy_00651_jpg.rf.8848e2536b57d6a2704eb744d553fe2b.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999500513076782,True
+test/7. Healthy leaf/healthy_00662_jpg.rf.bebf083baf768c09d3dc7d1be5aa5666.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9952551126480103,True
+test/7. Healthy leaf/healthy_00682_jpg.rf.6b2300deee67a7e9bb8b30ae72e55cef.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9411736130714417,True
+test/7. Healthy leaf/healthy_00685_jpg.rf.762e4f0ebc863dc3a02b4a4ea39b1150.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9997873902320862,True
+test/7. Healthy leaf/healthy_00693_jpg.rf.8d89bbf935905a61ea9c3e6e26edbaa3.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9996423721313477,True
+test/7. Healthy leaf/healthy_00706_jpg.rf.abe973fbb87a98bd3766e591a2a193f5.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999676942825317,True
+test/7. Healthy leaf/healthy_00710_jpg.rf.f5ba702a587e2055e02e55fcbbb00e6f.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9973281621932983,True
+test/7. Healthy leaf/healthy_00724_jpg.rf.baad6c004c3a4c618b4d6c4b9ff840c6.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9983539581298828,True
+test/7. Healthy leaf/healthy_00732_jpg.rf.792e5d850429d47298d7e1516d1da99b.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9982740879058838,True
+test/7. Healthy leaf/healthy_00735_jpg.rf.5ac88952f7f8fd8b58a3235a6a82c494.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9997527003288269,True
+test/7. Healthy leaf/healthy_00773_jpg.rf.8f8827394d534546ae4b756110a45b6b.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999529123306274,True
+test/7. Healthy leaf/healthy_00778_jpg.rf.8068bc0dbbe096cb2638bbfb10613d6a.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.7606379389762878,True
+test/7. Healthy leaf/healthy_00788_jpg.rf.0c609dd7741881e00fd8e5c389b5ab8f.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9980248212814331,True
+test/7. Healthy leaf/healthy_00792_jpg.rf.00b9329a0e746968174f122e55481486.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9825502038002014,True
+test/7. Healthy leaf/healthy_00806_jpg.rf.d97413bfd6364001a150ca96317abbe0.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9906283020973206,True
+test/7. Healthy leaf/healthy_00807_jpg.rf.cde59d30c43701668229fdee3249948d.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.976132333278656,True
+test/7. Healthy leaf/healthy_00810_jpg.rf.9d237f4c4e408e983eb56420aec78d13.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9995057582855225,True
+test/7. Healthy leaf/healthy_00826_jpg.rf.d264dceef96cade509f41a7383703469.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999990463256836,True
+test/7. Healthy leaf/healthy_00827_jpg.rf.dd9cba39abd4b256e385aec0a04f5740.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.622287929058075,True
+test/7. Healthy leaf/healthy_00831_jpg.rf.bebd3d630124e9f985cc3f9a81129ee1.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9985951781272888,True
+test/7. Healthy leaf/healthy_00834_jpg.rf.e7ad226b277c128f364686fcdfb6c740.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.997173547744751,True
+test/7. Healthy leaf/healthy_00836_jpg.rf.561a3aa2ab4ae233060bd8c515fe1fec.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9993664622306824,True
+test/7. Healthy leaf/healthy_00855_jpg.rf.13dafa057b66679463ca385dc12be96e.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.8361520171165466,True
+test/7. Healthy leaf/healthy_00858_jpg.rf.a0e9713b571d3ccdffea9b478f22a1d2.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999426603317261,True
+test/7. Healthy leaf/healthy_00860_jpg.rf.207499f26e4368826ce789d71d357049.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9999914169311523,True
+test/7. Healthy leaf/healthy_00874_jpg.rf.ca78121f353ca4e456ebcd9461e93682.jpg,6,7. Healthy leaf,2,3. Gray Blight,0.4520922005176544,False
+test/7. Healthy leaf/healthy_00876_jpg.rf.3f2731f3332ba72f8207263d1ed05349.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.999992847442627,True
+test/7. Healthy leaf/healthy_00893_jpg.rf.0e6a09183d7a4f3ab3fb0ed872d0d97e.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9990921020507812,True
+test/7. Healthy leaf/healthy_00896_jpg.rf.11b17ea2b31510c41ec2d83ff940724c.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9971845746040344,True
+test/7. Healthy leaf/healthy_00901_jpg.rf.caf8a8c90e752d5bff0397e82764d7a0.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.8831720948219299,True
+test/7. Healthy leaf/healthy_00904_jpg.rf.d69e86b434f2c2bd99aa6a1da2c995d2.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9523924589157104,True
+test/7. Healthy leaf/healthy_00925_jpg.rf.dbd075814e83b58c0184080cf320fa08.jpg,6,7. Healthy leaf,6,7. Healthy leaf,0.9989435076713562,True

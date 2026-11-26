@@ -1,0 +1,9 @@
+﻿label,train,valid,test,total
+1. Tea algal leaf spot,296,91,31,418
+2. Brown Blight,335,109,51,495
+3. Gray Blight,721,183,103,1007
+4. Helopeltis,401,130,63,594
+5. Red spider,357,103,52,512
+6. Green mirid bug,890,247,133,1270
+7. Healthy leaf,647,188,97,932
+TOTAL,3647,1051,530,5228

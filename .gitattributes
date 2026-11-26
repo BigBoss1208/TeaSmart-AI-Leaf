@@ -1,0 +1,3 @@
+# Preserve original research checksums on all platforms.
+* -text whitespace=trailing-space,space-before-tab,cr-at-eol
+*.png binary

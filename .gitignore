@@ -1,0 +1,17 @@
+outputs/
+Dataset/
+.venv/
+venv/
+.env*
+__pycache__/
+*.py[cod]
+.torch-cache/
+*.pth
+*.pt
+*.onnx
+*.zip
+*.log
+*.docx
+*.pdf
+.idea/
+.vscode/

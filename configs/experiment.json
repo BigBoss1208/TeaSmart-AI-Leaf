@@ -1,0 +1,56 @@
+{
+  "checkpoint_format": 1,
+  "class_to_idx": {
+    "1. Tea algal leaf spot": 0,
+    "2. Brown Blight": 1,
+    "3. Gray Blight": 2,
+    "4. Helopeltis": 3,
+    "5. Red spider": 4,
+    "6. Green mirid bug": 5,
+    "7. Healthy leaf": 6
+  },
+  "config": {
+    "amp": true,
+    "batch_size": 8,
+    "epochs": 30,
+    "finetune_backbone_lr": 3e-05,
+    "finetune_blocks": 4,
+    "finetune_classifier_lr": 0.0003,
+    "freeze_epochs": 5,
+    "image_size": 224,
+    "imagenet_mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "imagenet_std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "num_workers": 0,
+    "patience": 8,
+    "seed": 42,
+    "train_brightness_jitter": 0.08,
+    "train_contrast_jitter": 0.08,
+    "train_flip_probability": 0.5,
+    "train_rotation_degrees": 8.0,
+    "warmup_classifier_lr": 0.001,
+    "weight_decay": 0.0001
+  },
+  "dataset_root": "../Dataset/tea-leaf-clean-v1",
+  "environment": {
+    "cuda": "12.6",
+    "cudnn": 91002,
+    "filelock": "4.2.4",
+    "gpu": "NVIDIA GeForce RTX 2050",
+    "os": "Windows-11-10.0.26300-SP0",
+    "pillow": "13.0.0",
+    "python": "3.12.10",
+    "torch": "2.12.1+cu126",
+    "torchvision": "0.27.1+cu126"
+  },
+  "initial_weights": "IMAGENET1K_V2",
+  "model": "mobilenet_v2",
+  "train_valid_sha256": "dc28e67de85ac0f67411f61b62dd3eabc86384dd33b84331a309b4cbfc7ee241"
+}
